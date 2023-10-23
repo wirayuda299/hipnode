@@ -19,6 +19,6 @@ export { default as GroupRecentMedia } from '@/components/group/RecentMedia';
 export { default as SidebarMobile } from '@/components/group/Sidebar/Mobile';
 export { default as SidebarItem } from '@/components/group/Sidebar/Item';
 export { default as OptionBar } from './ProfilePage/OptionBar';
-export { default as PostCard } from './shared/PostCard';
+export { default as PostCard } from '@/components/shared/PostCard';
 export { default as GroupPostCard } from '@/components/group/GroupPostCard';
 export { default as InterviewPostCard } from '@/components/interviews/post-card';
