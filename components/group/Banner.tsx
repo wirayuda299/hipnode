@@ -14,7 +14,7 @@ export default function Banner() {
   return (
     <section className=' w-full flex-1 rounded-2xl bg-white p-3 dark:bg-darkPrimary-3 md:p-5'>
       <Image
-        className='min-h-full min-h-[200px] w-full rounded-2xl object-cover object-center'
+        className='h-full min-h-[200px] w-full rounded-2xl object-cover object-center'
         src={'/assets/images/banner.png'}
         sizes='100vw'
         width={765}
